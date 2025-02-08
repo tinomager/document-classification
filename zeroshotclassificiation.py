@@ -15,7 +15,6 @@ def get_all_files_from_folder(subfolder="docs"):
         print("File read successfully")
     return all_texts
 
-#text = "Eintracht Frankfurt gewinnt die Europa League nach 6:5-Erfolg im Elfmeterschießen gegen die Glasgow Rangers"
 labels = ["Sport", "Politik", "Wirtschaft", "Kultur", "Wissenschaft", "Technik", "Gesundheit", "Reisen", "Essen"]
 
 all_texts = get_all_files_from_folder()
