@@ -2,6 +2,8 @@
 
 This is a simple sample for me to use a zero-shot classification model to classify the content of PDF documents into predefined categories.
 
+For this project, we will use the [mDeBERTa-v3-base-xnli-multilingual-nli-2mil7 model](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7) from Hugging Face.
+
 ## Requirements
 
 To install the required dependencies, run:
